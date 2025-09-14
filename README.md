@@ -1,3 +1,4 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vKSEEVg3ZqeIKzApgQ_6Z0HTbmETigIEGw&s)]
 <h1 align="center">Hi 👋 World, I'm Prasanjeet Barik</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="center" alt="coding" width="400" src="https://cdn.prod.website-files.com/6672f2c52186ba163a2a83d7/669e8977c037117c368e6cfc_Analytics.gif">
