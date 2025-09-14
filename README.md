@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 World, I'm Prasanjeet Barik</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.prod.website-files.com/6672f2c52186ba163a2a83d7/669e8977c037117c368e6cfc_Analytics.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.prod.website-files.com/6672f2c52186ba163a2a83d7/669e8977c037117c368e6cfc_Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barikprasanjeet43-create&label=Profile%20views&color=0e75b6&style=flat" alt="barikprasanjeet43-create" /> </p>
 
