@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barikprasanjeet43-create" alt="barikprasanjeet43-create" /></a> </p>
 
-- 🔭 I’m currently working on [IPL Dashboard](https://github.com/barikprasanjeet43-create/IPL-Dashboard/tree/main)
-
 - 🌱 I’m currently learning **data analyst**
 
 - 💬 Ask me about **Data analysis,SQL,MsExcel,Python,PowerBi**
